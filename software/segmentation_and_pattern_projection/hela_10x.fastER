@@ -1,0 +1,10 @@
+1
+844.25, 60.1649, 135.051, 14.4576, 0.679724, 1.04764, 0.0970936, 14.8925, 16.5301
+413.941, 22.5774, 104.586, 1.73548, 0.618711, 0.118743, 0.176773, 10.447, 0.907719
+Bilateral filter : pixelNeighborhoodDiameter = 9 ; sigmaColor = 73 ; sigmaSpace = 73 
+fastER : minProbability = 0.5 ; minSize = 341 ; darkOnBright = true ; constrainPosSamples = true ; maxSize = 2359 ; disableErSplitting = false 
+Convex Fill : 
+Simple Dilation : delta = 0 
+Count cells : 
+Save segmentation results : 
+Quantification : extendedQuantification = false 
