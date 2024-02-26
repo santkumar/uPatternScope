@@ -1,2 +1,2 @@
 - Hardware: Parts list, CAD designs and related files for the uPatterScope hardware
-- Software: Softare routines for different demonstration experiments
+- Software: Software routines for different demonstration experiments
