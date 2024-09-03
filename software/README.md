@@ -1,0 +1,2 @@
+- Developed and run on MATLAB R2020b (academic version)
+- Requires YouScope R2020 (build: 2.2.0, open source) or recent version
