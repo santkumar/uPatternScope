@@ -1,2 +1,2 @@
-- Developed and run on MATLAB R2020b (academic version)
+- Developed and run with MATLAB R2020b (academic version) on Windows 10 OS
 - Requires YouScope R2020 (build: 2.2.0, open source) or recent version
